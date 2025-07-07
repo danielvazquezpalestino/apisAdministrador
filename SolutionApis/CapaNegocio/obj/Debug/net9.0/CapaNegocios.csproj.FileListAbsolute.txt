@@ -1,0 +1,17 @@
+C:\Users\vazqu\source\repos\SolutionApis\CapaNegocio\bin\Debug\net9.0\CapaNegocios.deps.json
+C:\Users\vazqu\source\repos\SolutionApis\CapaNegocio\bin\Debug\net9.0\CapaNegocios.dll
+C:\Users\vazqu\source\repos\SolutionApis\CapaNegocio\bin\Debug\net9.0\CapaNegocios.pdb
+C:\Users\vazqu\source\repos\SolutionApis\CapaNegocio\bin\Debug\net9.0\AccesoDatos.dll
+C:\Users\vazqu\source\repos\SolutionApis\CapaNegocio\bin\Debug\net9.0\Entities.dll
+C:\Users\vazqu\source\repos\SolutionApis\CapaNegocio\bin\Debug\net9.0\AccesoDatos.pdb
+C:\Users\vazqu\source\repos\SolutionApis\CapaNegocio\bin\Debug\net9.0\Entities.pdb
+C:\Users\vazqu\source\repos\SolutionApis\CapaNegocio\obj\Debug\net9.0\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\vazqu\source\repos\SolutionApis\CapaNegocio\obj\Debug\net9.0\CapaNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vazqu\source\repos\SolutionApis\CapaNegocio\obj\Debug\net9.0\CapaNegocios.AssemblyInfoInputs.cache
+C:\Users\vazqu\source\repos\SolutionApis\CapaNegocio\obj\Debug\net9.0\CapaNegocios.AssemblyInfo.cs
+C:\Users\vazqu\source\repos\SolutionApis\CapaNegocio\obj\Debug\net9.0\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\vazqu\source\repos\SolutionApis\CapaNegocio\obj\Debug\net9.0\CapaNego.1D246B3C.Up2Date
+C:\Users\vazqu\source\repos\SolutionApis\CapaNegocio\obj\Debug\net9.0\CapaNegocios.dll
+C:\Users\vazqu\source\repos\SolutionApis\CapaNegocio\obj\Debug\net9.0\refint\CapaNegocios.dll
+C:\Users\vazqu\source\repos\SolutionApis\CapaNegocio\obj\Debug\net9.0\CapaNegocios.pdb
+C:\Users\vazqu\source\repos\SolutionApis\CapaNegocio\obj\Debug\net9.0\ref\CapaNegocios.dll

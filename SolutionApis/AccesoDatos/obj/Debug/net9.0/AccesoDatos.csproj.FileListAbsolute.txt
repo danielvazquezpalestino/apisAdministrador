@@ -1,0 +1,15 @@
+C:\Users\vazqu\source\repos\SolutionApis\AccesoDatos\bin\Debug\net9.0\AccesoDatos.deps.json
+C:\Users\vazqu\source\repos\SolutionApis\AccesoDatos\bin\Debug\net9.0\AccesoDatos.dll
+C:\Users\vazqu\source\repos\SolutionApis\AccesoDatos\bin\Debug\net9.0\AccesoDatos.pdb
+C:\Users\vazqu\source\repos\SolutionApis\AccesoDatos\bin\Debug\net9.0\Entities.dll
+C:\Users\vazqu\source\repos\SolutionApis\AccesoDatos\bin\Debug\net9.0\Entities.pdb
+C:\Users\vazqu\source\repos\SolutionApis\AccesoDatos\obj\Debug\net9.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\vazqu\source\repos\SolutionApis\AccesoDatos\obj\Debug\net9.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vazqu\source\repos\SolutionApis\AccesoDatos\obj\Debug\net9.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\vazqu\source\repos\SolutionApis\AccesoDatos\obj\Debug\net9.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\vazqu\source\repos\SolutionApis\AccesoDatos\obj\Debug\net9.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\vazqu\source\repos\SolutionApis\AccesoDatos\obj\Debug\net9.0\AccesoDa.B2719C34.Up2Date
+C:\Users\vazqu\source\repos\SolutionApis\AccesoDatos\obj\Debug\net9.0\AccesoDatos.dll
+C:\Users\vazqu\source\repos\SolutionApis\AccesoDatos\obj\Debug\net9.0\refint\AccesoDatos.dll
+C:\Users\vazqu\source\repos\SolutionApis\AccesoDatos\obj\Debug\net9.0\AccesoDatos.pdb
+C:\Users\vazqu\source\repos\SolutionApis\AccesoDatos\obj\Debug\net9.0\ref\AccesoDatos.dll

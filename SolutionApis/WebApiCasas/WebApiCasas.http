@@ -1,0 +1,11 @@
+@WebApiCasas_HostAddress = https://localhost:7043
+
+GET {{WebApiCasas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+@Id=4
+DELETE {{WebApiCasas_HostAddress}}/api/house/v3/DeleteCasas?Id={{Id}}
+
+###
