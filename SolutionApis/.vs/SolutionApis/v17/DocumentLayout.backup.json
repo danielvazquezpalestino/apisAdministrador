@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\vazqu\\source\\repos\\SolutionApis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{994E7A06-8FD3-4EBE-9CE6-A826B7738A22}|WebApiCasas\\WebApiCasas.csproj|c:\\users\\vazqu\\source\\repos\\solutionapis\\webapicasas\\controllers\\movementcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{994E7A06-8FD3-4EBE-9CE6-A826B7738A22}|WebApiCasas\\WebApiCasas.csproj|solutionrelative:webapicasas\\controllers\\movementcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vazqu\\source\\repos\\SolutionApis\\AccesoDatos\\AdCategoriaMovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccesoDatos\\AdCategoriaMovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5F019504-697F-435D-9801-1207CA26813E}|CapaNegocio\\CapaNegocios.csproj|c:\\users\\vazqu\\source\\repos\\solutionapis\\capanegocio\\ngcategoriamovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F019504-697F-435D-9801-1207CA26813E}|CapaNegocio\\CapaNegocios.csproj|solutionrelative:capanegocio\\ngcategoriamovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F019504-697F-435D-9801-1207CA26813E}|CapaNegocio\\CapaNegocios.csproj|c:\\users\\vazqu\\source\\repos\\solutionapis\\capanegocio\\ngareacomun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F019504-697F-435D-9801-1207CA26813E}|CapaNegocio\\CapaNegocios.csproj|solutionrelative:capanegocio\\ngareacomun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66D67919-0367-4B6B-977D-5FB444EB42FD}|Entities\\Entities.csproj|c:\\users\\vazqu\\source\\repos\\solutionapis\\entities\\categoriamovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66D67919-0367-4B6B-977D-5FB444EB42FD}|Entities\\Entities.csproj|solutionrelative:entities\\categoriamovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F019504-697F-435D-9801-1207CA26813E}|CapaNegocio\\CapaNegocios.csproj|c:\\users\\vazqu\\source\\repos\\solutionapis\\capanegocio\\ngareacomun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F019504-697F-435D-9801-1207CA26813E}|CapaNegocio\\CapaNegocios.csproj|solutionrelative:capanegocio\\ngareacomun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vazqu\\source\\repos\\SolutionApis\\AccesoDatos\\AdCategoriaMovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccesoDatos\\AdCategoriaMovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994E7A06-8FD3-4EBE-9CE6-A826B7738A22}|WebApiCasas\\WebApiCasas.csproj|c:\\users\\vazqu\\source\\repos\\solutionapis\\webapicasas\\controllers\\movementcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994E7A06-8FD3-4EBE-9CE6-A826B7738A22}|WebApiCasas\\WebApiCasas.csproj|solutionrelative:webapicasas\\controllers\\movementcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MovementCategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\vazqu\\source\\repos\\SolutionApis\\WebApiCasas\\Controllers\\MovementCategoriesController.cs",
               "RelativeDocumentMoniker": "WebApiCasas\\Controllers\\MovementCategoriesController.cs",
               "ToolTip": "C:\\Users\\vazqu\\source\\repos\\SolutionApis\\WebApiCasas\\Controllers\\MovementCategoriesController.cs",
               "RelativeToolTip": "WebApiCasas\\Controllers\\MovementCategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T18:16:01.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AdCategoriaMovimientos.cs",
               "DocumentMoniker": "C:\\Users\\vazqu\\source\\repos\\SolutionApis\\AccesoDatos\\AdCategoriaMovimientos.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\AdCategoriaMovimientos.cs",
               "ToolTip": "C:\\Users\\vazqu\\source\\repos\\SolutionApis\\AccesoDatos\\AdCategoriaMovimientos.cs",
               "RelativeToolTip": "AccesoDatos\\AdCategoriaMovimientos.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADcAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T17:46:22.46Z"
+              "WhenOpened": "2025-07-07T17:46:22.46Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CategoriaMovimientos.cs",
               "DocumentMoniker": "C:\\Users\\vazqu\\source\\repos\\SolutionApis\\Entities\\CategoriaMovimientos.cs",
               "RelativeDocumentMoniker": "Entities\\CategoriaMovimientos.cs",
               "ToolTip": "C:\\Users\\vazqu\\source\\repos\\SolutionApis\\Entities\\CategoriaMovimientos.cs",
               "RelativeToolTip": "Entities\\CategoriaMovimientos.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T16:54:14.558Z"
+              "WhenOpened": "2025-07-07T16:54:14.558Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "NgAreaComun.cs",
               "DocumentMoniker": "C:\\Users\\vazqu\\source\\repos\\SolutionApis\\CapaNegocio\\NgAreaComun.cs",
               "RelativeDocumentMoniker": "CapaNegocio\\NgAreaComun.cs",
               "ToolTip": "C:\\Users\\vazqu\\source\\repos\\SolutionApis\\CapaNegocio\\NgAreaComun.cs",
               "RelativeToolTip": "CapaNegocio\\NgAreaComun.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA0wBUAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T16:46:41.898Z"
+              "WhenOpened": "2025-07-07T16:46:41.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "NgCategoriaMovimientos.cs",
               "DocumentMoniker": "C:\\Users\\vazqu\\source\\repos\\SolutionApis\\CapaNegocio\\NgCategoriaMovimientos.cs",
               "RelativeDocumentMoniker": "CapaNegocio\\NgCategoriaMovimientos.cs",
               "ToolTip": "C:\\Users\\vazqu\\source\\repos\\SolutionApis\\CapaNegocio\\NgCategoriaMovimientos.cs",
               "RelativeToolTip": "CapaNegocio\\NgCategoriaMovimientos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwAgAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T16:46:39.702Z"
+              "WhenOpened": "2025-07-07T16:46:39.702Z",
+              "EditorCaption": ""
             }
           ]
         }
